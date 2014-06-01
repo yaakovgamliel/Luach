@@ -35,5 +35,5 @@ public class MainActivity extends Activity {
     }
 
     // Helper methods
-     
+
 }
